@@ -1,43 +1,27 @@
 # ArkFit_Fitness 🏋️‍♀️ 
 
-The ArkFit_Fitness project is a web-based fitness application designed to assist users in discovering and practicing various exercises tailored to their needs. Built using HTML, SCSS, and JavaScript, the application offers a user-friendly interface that categorizes exercises based on different body parts. Each exercise includes detailed instructions and embedded YouTube videos to guide users through proper form and technique. The project emphasizes responsive design, ensuring accessibility across various devices. While the current implementation focuses on front-end development, it lays the groundwork for potential integration with APIs and back-end services to enhance functionality.
+ArkFit Fitness is a front-end web application developed to promote user engagement in personalized fitness routines. Built using HTML, SCSS, and JavaScript, it features a clean, responsive design and categorizes exercises by targeted muscle groups. The platform integrates embedded YouTube videos and intuitive navigation to guide users through correct exercise form and technique. This project highlights practical front-end development skills and reflects a strong emphasis on user experience and visual design principles.functionality.
 
-### ✨ Features
+## 🚀 Features
 
-1. Categorized exercise listings (e.g., arms, legs, back)
-2. Embedded YouTube videos for exercise demonstrations
-3. Responsive design for optimal viewing on all devices
-4. Clean and intuitive user interface​
+- 💪 Categorized exercises for targeted muscle training
+- 🎥 Embedded video demonstrations for each workout
+- 📱 Fully responsive design for mobile and desktop
+- 🧭 Intuitive and clean user interface
 
-### 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
-HTML
-CSS
-JavaScript​
-SCSS
-PHP
+- HTML5
+- SCSS (Sassy CSS)
+- JavaScript
 
-### 🚀 Getting Started
+## 🧩 How to Run
 
-1. Clone the repository:​
-git clone https://github.com/Shruti1632/ArkFit_Fitness.git
+1. Clone the repository:
 
-2. Navigate to the project directory:
+   ```bash
+   git clone https://github.com/Shruti1632/ArkFit_Fitness.git
+
+2. Navigate into the project directory:
+
 cd ArkFit_Fitness
-
-3. Open index.html in your preferred web browser to view the application.​
-   
-### 📁 Project Structure
-
-ArkFit_Fitness/
-├── index.html                # Entry point of the application
-├── styles/
-│   └── main.scss             # SCSS styles for layout and design
-├── scripts/
-│   └── app.js                # JavaScript for interaction and logic
-├── assets/
-│   ├── images/               # Visual assets and icons
-│   └── videos/               # (Optional) Local video files
-└── README.md                 # Project documentation
-
-
