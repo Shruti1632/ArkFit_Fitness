@@ -1,6 +1,6 @@
 # ArkFit_Fitness 🏋️‍♀️ 
 
-ArkFit Fitness is a front-end web application developed to promote user engagement in personalized fitness routines. Built using HTML, SCSS, and JavaScript, it features a clean, responsive design and categorizes exercises by targeted muscle groups. The platform integrates embedded YouTube videos and intuitive navigation to guide users through correct exercise form and technique. This project highlights practical front-end development skills and reflects a strong emphasis on user experience and visual design principles.functionality.
+ArkFit Fitness is a front-end web application developed to promote user engagement in personalized fitness routines. Built using HTML, SCSS, and JavaScript, it features a clean, responsive design and categorizes exercises by targeted muscle groups. The platform integrates embedded YouTube videos and intuitive navigation to guide users through correct exercise form and technique. This project highlights practical front-end development skills and reflects a strong emphasis on user experience and visual design principles.
 
 ## 🚀 Features
 
@@ -24,4 +24,11 @@ ArkFit Fitness is a front-end web application developed to promote user engageme
 
 2. Navigate into the project directory:
 
+```bash
 cd ArkFit_Fitness
+
+3. Open index.html in your preferred browser.
+
+🤝 Contributing
+Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to improve.
+
