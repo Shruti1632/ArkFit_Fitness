@@ -19,26 +19,15 @@ PHP
 
 ### 🚀 Getting Started
 
-. Clone the repositoy:
+1. Clone the repository:​
+git clone https://github.com/Shruti1632/ArkFit_Fitness.git
 
-   ```bash
-   git clone https://github.com/Shruti1632/ArkFit_Fitness.git
-   ``
-
+2. Navigate to the project directory:
+cd ArkFit_Fitness
 
-. Navigate to the project directoy:
-
-   ```bash
-   cd ArkFit_Fitness
-   ``
-
-
-. Open `index.html` in your preferred web browser to view the applicatin.
-
-### 📁 Project Structue
-
-
-```
+3. Open index.html in your preferred web browser to view the application.​
+   
+### 📁 Project Structure
 ArkFit_Fitness/
 ├── index.html
 ├── styles/
@@ -49,13 +38,4 @@ ArkFit_Fitness/
 │   ├── images/
 │   └── videos/
 └── README.md
-``
-
 
-### 📄 Licese
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for detils.
-
---
-
-For more information or to contribute to the project, please visit the [ArkFit_Fitness GitHub repository](https://github.com/Shruti1632/ArkFit_Fitnss). 
