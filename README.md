@@ -24,9 +24,9 @@ ArkFit Fitness is a front-end web application developed to promote user engageme
 
 2. Navigate into the project directory:
 
-```bash
-cd ArkFit_Fitness
-'''
+  ```bash
+  cd ArkFit_Fitness
+
 3. Open index.html in your preferred browser.
 
 🤝 Contributing
