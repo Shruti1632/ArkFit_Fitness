@@ -74,3 +74,19 @@ ArkFit_Fitness/
 ## 🤝 Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to improve.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🙋‍♀️ Author
+
+**Shruti Pawar**
+
+- [GitHub](https://github.com/Shruti1632)
+- [LinkedIn](https://www.linkedin.com/in/shruti-pawar-0a9031235/)
+
+---
+
