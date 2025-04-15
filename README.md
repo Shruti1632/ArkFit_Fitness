@@ -30,13 +30,14 @@ cd ArkFit_Fitness
 ### 📁 Project Structure
 
 ArkFit_Fitness/
-├── index.html
+├── index.html                # Entry point of the application
 ├── styles/
-│   └── main.scss
+│   └── main.scss             # SCSS styles for layout and design
 ├── scripts/
-│   └── app.js
+│   └── app.js                # JavaScript for interaction and logic
 ├── assets/
-│   ├── images/
-│   └── videos/
-└── README.md
+│   ├── images/               # Visual assets and icons
+│   └── videos/               # (Optional) Local video files
+└── README.md                 # Project documentation
+
 
