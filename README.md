@@ -13,7 +13,7 @@ ArkFit Fitness is a front-end web application developed to promote user engageme
 
 - HTML5
 - SCSS (Sassy CSS)
-- JavaScript
+- JavaScript (Vanilla)
 
 ## 📸 Screenshots
 
