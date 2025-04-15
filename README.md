@@ -18,7 +18,8 @@ ArkFit Fitness is a front-end web application developed to promote user engageme
 ## 📸 Screenshots
 
 
-![image](https://github.com/user-attachments/assets/f1e5d1a1-96bb-4a73-b76b-dd2c06ef6946)
+![image](https://github.com/user-attachments/assets/2666f826-791d-4c5f-b6a6-738fbf436cff)
+
 
 ---
 
