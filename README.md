@@ -28,6 +28,7 @@ cd ArkFit_Fitness
 3. Open index.html in your preferred web browser to view the application.​
    
 ### 📁 Project Structure
+
 ArkFit_Fitness/
 ├── index.html
 ├── styles/
